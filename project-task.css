@@ -1,0 +1,461 @@
+.main-heading{
+    color:orange;
+    font-size: 24px;
+    text-align: center;
+    margin: 25px;
+    padding-top:10px;
+
+
+}
+.background{
+    background-color: rgb(12, 12, 70);
+    background-size: 20%;
+}
+.paragraph{
+    color:white;
+    font-size: 20px;
+    text-align: center;
+
+}
+.span-style{
+    color:orange;
+    font-size: 20px;
+
+}
+.image{
+    height:80px;
+    width:100px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    
+
+    
+}
+.image-container{
+    padding:8px;
+    border-color:#ffffff;
+    border-width:  5px;
+    margin:10px;
+    padding: 20px;
+    max-width: 250px;
+    max-height: 350px;
+    border: solid #ffffff;
+}
+.delivery-border{
+    border-color: orange;
+    border:solid;
+    border-width:1px;
+    padding:5px;
+}
+.image-btn{
+    background-color:orange;
+    border-radius: 5px;
+    color:white;
+    border-width: 0px;
+    max-width: 80px;
+    margin-left: 12px;
+    font-size: 8px;
+
+}
+.paragraph1{
+    color:white;
+    font-size: 20px;
+    margin:0px, 12px, 0px,0px;
+    
+
+}
+
+.paragraph2{
+    color:white;
+    font-size: 12px;
+    text-align: center;
+    margin-right: 25px;
+
+}
+.horizontal-line{
+    color:white;
+    size: 8px;
+    border:solid white;
+    border-width: 0.1px;
+}
+.zomato{
+    background-color: transparent;
+    height:fit-content;
+    width:fit-content;
+    color:white;
+    font-weight:bolder;
+    font-size: 15px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border-width: 0px;
+    border-color:transparent;
+}
+.logo{
+    background-color: transparent;
+    height:fit-content;
+    width:fit-content;
+    color:white;
+    font-weight: 450;
+    font-size: 15px;
+    border-width: 0px;
+    border-color:transparent;
+    
+}
+.span1{
+    font-size: 20px;
+    color:white;
+    font-weight: bolder;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+.logos-container {
+    
+    margin: 15px;
+    
+   
+}
+.logo-container {
+    height:100px;
+    width: 90px;
+    color:white;
+    align-items: center;
+    padding: 10px;
+    margin:20px;  
+    background-color: rgb(10, 10, 85);
+    border-radius: 3px;  
+
+}
+.icon-img{
+    font-size: 40px;
+    margin-bottom: 10px;
+}
+.enroll-btn{
+    width: 300px;
+    border-radius: 3px;
+    background-color: orange;
+    border-width: 0px;
+    height:fit-content;
+    margin-top: 25px;
+    margin-left:20px;
+    font-weight: bolder;
+}
+.arrows{
+    color:white;
+}
+.heading{
+    color:blue;
+    font-size: 35px;
+    text-align: center;
+    margin-top: 25px;
+    padding-top:10px;
+    font-weight: 300;
+
+}
+.span-heading{
+    color:blue;
+    font-size: 35px;
+    text-align: center;
+    padding-top:10px;
+    font-weight: bolder;
+}
+
+.bg-container{
+    background-color: rgb(169, 243, 243);
+    box-shadow: rgb(53, 85, 85);
+    border-radius: 5px;
+    padding:10px;
+    margin:5px;
+    height: 65px !important;
+    width: 450px !important;
+    
+}
+.icon-bg{
+    background-color: black;
+    color: white;
+    border-radius: 12px;
+    height:20px;
+    width:22px;
+    align-items: center;
+}
+.paragraph3{
+    font-size: 15px;
+    
+}
+.even-spaced {
+    justify-content: space-evenly;
+}
+.circle {
+    position: relative;
+    margin: 0 auto;
+    width: 185px;
+    height: 185px;
+    border-radius: 50%;
+    border-color: rgb(232, 232, 68);
+    border-width: 15px;
+    background-color: HSL(45, 100%, 50%);
+  }
+  .work-heading {
+    color: rgb(199, 199, 59);
+    text-align: center;
+    margin-top:30px;
+  }
+  .work-p {
+    text-align: center;
+    font-family: "Times New Roman", Times, serif;
+  }
+  .lines {
+    color: orange;
+    font-size: large;
+  }
+  .steps {
+    align-items: center;
+    margin-left: 10vw;
+  }
+  .step {
+    font-weight: bolder;
+    font-size: 18px;
+      }
+    
+ .circle-texts {
+    justify-content: space-evenly;
+    margin-left: 5px;
+    margin-top: 10px;
+ }
+.circle-txt{
+    margin-left: 8vw;
+}
+.background-container{
+    background-color: rgb(252, 246, 238);
+    margin-top: 20px;
+    margin-bottom:20px;
+}
+.heading-cline{
+    text-align: center;
+    margin-bottom: 10px;
+
+}
+.cline_img{
+    height:400px;
+    width:400px;
+    margin-bottom: 20px;
+}
+.cline{
+
+    font-weight:bold;
+}
+
+.heading-cline1{
+    text-align: left;
+    font-size: 30px;
+
+}
+.cline-paragraph{
+    text-align: left;
+    font-size: 14px;
+}
+.delivery{
+    height: fit-content;
+    max-width: fit-content;
+    padding:5px;
+    background-color: transparent;
+    border-color: orange;
+    text-align: center;
+    margin-left: 60px;
+    border-width: 1px;
+    margin-top:15px;
+}
+.app-icons{
+    height:40px;
+    width:80px;
+    margin:10px;
+}
+.designer-card{
+    background-color: rgb(2, 2, 89);
+    margin:5px;
+    width: 33vw;
+    min-height: 500px;
+    align-items: center;
+    padding-top: 20px;
+    
+
+}
+.design{
+    color:white;
+    font-weight: 500;
+    text-align: center;
+    margin-bottom: 10px;
+}
+.amount{
+    color:orange;
+    font-size: 30px;
+    font-weight: bold;
+    margin-left: 8px;
+    margin-bottom: 10px;
+}
+s{
+    color:white;
+    font-size: 15px;
+    margin-left: 100px;
+    margin-bottom: 10px;
+}
+.correct{
+    height:5px;
+    width:8px;
+    color:white;
+    margin-right:10px;
+    margin-top:20px;
+}
+.design-points{
+    font-size: 15px;
+    color:white;
+    margin-left:5px;
+    margin-top:20px;
+
+}
+.enroll-now{
+    height:fit-content;
+    width:150px;
+    background-color: white;
+    border-radius: 5px;
+    color:rgb(18, 18, 81);
+    border-width: 0px;
+    margin-left:100px;
+    margin-top:20px;
+}
+.what-container{
+    background-color: aliceblue;
+    margin:20px;
+}
+.what{ 
+    color:rgb(9, 9, 80); 
+     text-align: center; 
+     margin-left: 300px;
+}
+.correct1{
+    height:5px;
+    width:8px;
+    color:orange;
+    margin-right:20px;
+    margin-left: 20px;
+    font-weight: bold;
+
+}
+.what-card{
+    background-color: aliceblue;
+    margin:20px;
+}
+.designer-text-card{
+    width:66vw;
+}
+.designer-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.des-text-heading{
+    text-align: center;
+    color:rgb(8, 8, 100); 
+}
+.bonus-section{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.start-heading {
+    color: navy;
+  }
+  .third-page {
+    text-align: center;
+  }
+  .third-para {
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+    display: inline-flex;
+    justify-content: center;
+    max-width: 45vw;
+  }
+  .container {
+    height: 400px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+  }
+  .certificate-img-container {
+    width: 40vw;
+    background-size: cover;
+    height: auto;
+  }
+  .certificate-img{
+    height:  350px;
+    width:33vw;
+  }
+  .blue-bg-container {
+    background-color: rgb(6, 6, 41);
+    margin: 10px;
+    border-radius: 5px;
+    color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    padding: 8px;
+    min-height:200px;
+  }
+  .know-text {
+    min-width: 33vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-top: 60px;
+  }
+  .icon-text {
+    display: inline-flex;
+    flex-direction: row;
+  }
+  .icon-circle {
+    min-height: 65px;
+    min-width: 65px;
+    border-radius: 50%;
+    color: white;
+    background-color: transparent;
+    border-color: gold;
+    border-style: groove;
+    margin-top: 10px;
+    margin-right: 10px;
+  }
+  .dual-container {
+    max-width: 33vw;
+    padding-top: 10px;
+  }
+  .dropdown-heading{
+    color: rgb(3, 3, 67);
+    text-align: center;
+  }
+  .dropdown-span{
+    color:orange;
+    font-size: 20px;
+    text-align: start;
+    margin-left: 0px;
+    margin-right: 100px;
+    
+    
+
+  }
+  .dropdown-bg{
+    background-color: rgb(217, 235, 250);
+    padding-bottom: 20px;
+    text-align: start !important;
+  }
+  .btn-style{
+    height:50px;
+    width:40vw;
+    box-shadow: rgb(90, 87, 87);
+    margin-left:29vw;
+    font-size: 28px;
+    margin-bottom: 10px;
+    
+
+
+
+  }
+  
